@@ -1,7 +1,7 @@
 ## я крутой программист, знаю все языки, сюда выкладываю свои проекты
 Если есть дела - не пиши брат. 
 Тун тун саур. 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1b09f5d8-e12a-43b9-9dae-8b3ab7f3d002" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1b09f5d8-e12a-43b9-9dae-8b3ab7f3d002" />
 
 
 <!--
