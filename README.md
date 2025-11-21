@@ -1,6 +1,7 @@
 ## я крутой программист, знаю все языки, сюда выкладываю свои проекты
 Если есть дела - не пиши брат. 
 Тун тун саур. 
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/204f478e-54e1-4098-96cc-2e5e768ebc28" />
 
 <!--
 **Dasha1488/Dasha1488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
