@@ -1,4 +1,6 @@
 ## я крутой программист, знаю все языки, сюда выкладываю свои проекты
+Если есть дела - не пиши брат. 
+Тун тун саур. 
 
 <!--
 **Dasha1488/Dasha1488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
