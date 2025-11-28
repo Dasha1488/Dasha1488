@@ -1,7 +1,8 @@
 ## я крутой программист, знаю все языки, сюда выкладываю свои проекты
 Писать по фигне. По делу – чс. 
 доначу в роблокс
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/beb135be-5692-4192-8597-eeec14bd328e"   />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/918671f9-074a-4f00-a656-b4dc1667c0e7" />
+   />
 
 
 <!--
